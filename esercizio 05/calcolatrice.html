@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic Page</title>
+    <link rel="stylesheet" href="stylescheet.css">
+</head>
+<body>
+    <h1 style="margin-top: 5%;">The Magic Page</h1>
+    <label class="frm">
+    <input type="text" id="rdo" readonly class="btnrdo">
+    <br><br>
+    <!--
+    <button onclick="wrt()" class="wrt">write     <img src="img/penb.png" width="10" height="10"></button>
+    <button onclick="clr()" class="clr">clr     <img src="img/clrb.png" width="12" height="12"></button>
+    -->
+    <button onclick="wrt(this)" value="7" class="nbr">7</button>
+    <button onclick="wrt(this)" value="8" class="nbr">8</button>
+    <button onclick="wrt(this)" value="9" class="nbr">9</button>
+    <button onclick="wrt(this)" value="+" class="opr">+</button><br>
+    <button onclick="wrt(this)" value="4" class="nbr">4</button>
+    <button onclick="wrt(this)" value="5" class="nbr">5</button>
+    <button onclick="wrt(this)" value="6" class="nbr">6</button>
+    <button onclick="wrt(this)" value="-" class="opr">-</button><br>
+    <button onclick="wrt(this)" value="1" class="nbr">1</button>
+    <button onclick="wrt(this)" value="2" class="nbr">2</button>
+    <button onclick="wrt(this)" value="3" class="nbr">3</button>
+    <button onclick="wrt(this)" value="*" class="opr">*</button><br>
+    <button style="width: 80px;" onclick="wrt(this)" value="0" class="nbr">0</button>
+    <button onclick="clr()" style="background-color:lightgray;">CE</button>
+    <button onclick="wrt(this)" value="/" class="opr">/</button>
+    </label>
+    <input type="text" id="rst" readonly class="btnrst">
+    <button onclick="rst()" class="rst">=</button>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+</html>

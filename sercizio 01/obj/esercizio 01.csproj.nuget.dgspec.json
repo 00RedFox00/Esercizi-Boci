@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/marco/Documenti/git-p/Esercizi-Boci/sercizio 01/esercizio 01.csproj": {}
+    "C:\\Users\\ReDev\\Documents\\GitHub\\Esercizi-Boci\\sercizio 01\\esercizio 01.csproj": {}
   },
   "projects": {
-    "/home/marco/Documenti/git-p/Esercizi-Boci/sercizio 01/esercizio 01.csproj": {
+    "C:\\Users\\ReDev\\Documents\\GitHub\\Esercizi-Boci\\sercizio 01\\esercizio 01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marco/Documenti/git-p/Esercizi-Boci/sercizio 01/esercizio 01.csproj",
+        "projectUniqueName": "C:\\Users\\ReDev\\Documents\\GitHub\\Esercizi-Boci\\sercizio 01\\esercizio 01.csproj",
         "projectName": "esercizio 01",
-        "projectPath": "/home/marco/Documenti/git-p/Esercizi-Boci/sercizio 01/esercizio 01.csproj",
-        "packagesPath": "/home/marco/.nuget/packages/",
-        "outputPath": "/home/marco/Documenti/git-p/Esercizi-Boci/sercizio 01/obj/",
+        "projectPath": "C:\\Users\\ReDev\\Documents\\GitHub\\Esercizi-Boci\\sercizio 01\\esercizio 01.csproj",
+        "packagesPath": "C:\\Users\\ReDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ReDev\\Documents\\GitHub\\Esercizi-Boci\\sercizio 01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/marco/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ReDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

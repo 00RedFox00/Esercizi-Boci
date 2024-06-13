@@ -1,0 +1,63 @@
+.calculator, .digits {
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.digits {
+    margin-top: 20px;
+}
+.nbr, .opr, .clr, .ris {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+.btnrdo {
+    height: 30px;
+    width: 235px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.opr {
+    background-color: hsl(39, 100%, 70%);
+    border-color: darkorange;
+}
+.opr:hover {
+    background-color: hsl(33, 100%, 60%);
+    border-color: gray;
+}
+.opr:active {
+    background-color: hsl(33, 100%, 50%);
+    border-color: black;
+}
+.clr, .nbr {
+    background-color: lightgrey;
+    border-color: gray;
+}
+.clr:hover, .nbr:hover {
+    background-color: hsl(0, 0%, 70%);
+    border-color: black;
+}
+.clr:active, .nbr:active {
+    background-color: grey;
+    border-color: black;
+}
+.ris {
+    background-color: hsl(6, 93%, 90%);
+}
+.ris:hover {
+    background-color: hsl(6, 93%, 80%);
+}
+.ris:active {
+    background-color: coral;
+}
+/*.calculator {
+    display: block;
+    background-color: black;
+    padding-top: 40px;
+    margin-left: 780px;
+    margin-right: 780px;
+    padding-bottom: 30px;
+    border-radius: 40px;
+}*/

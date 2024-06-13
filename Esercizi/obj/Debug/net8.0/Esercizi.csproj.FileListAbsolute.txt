@@ -1,0 +1,12 @@
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\bin\Debug\net8.0\Esercizi.deps.json
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\bin\Debug\net8.0\Esercizi.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\bin\Debug\net8.0\Esercizi.pdb
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.AssemblyInfoInputs.cache
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.AssemblyInfo.cs
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.sourcelink.json
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\refint\Esercizi.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\Esercizi.pdb
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\Esercizi\obj\Debug\net8.0\ref\Esercizi.dll

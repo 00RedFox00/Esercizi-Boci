@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcolatrice</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <div class="calculator">
+        <!--<input type="text" id="rdo2" readonly class="btnrdo"><br><br>-->
+        <input type="text" id="rdo" readonly class="btnrdo"><br>
+        <div class="digits">
+            <button onclick="nbr(this)" value="7" class="nbr">7</button>
+            <button onclick="nbr(this)" value="8" class="nbr">8</button>
+            <button onclick="nbr(this)" value="9" class="nbr">9</button>
+            <button onclick="wrt(this)" value="+" class="opr">+</button><br>
+            <button onclick="nbr(this)" value="4" class="nbr">4</button>
+            <button onclick="nbr(this)" value="5" class="nbr">5</button>
+            <button onclick="nbr(this)" value="6" class="nbr">6</button>
+            <button onclick="wrt(this)" value="-" class="opr">-</button><br>
+            <button onclick="nbr(this)" value="1" class="nbr">1</button>
+            <button onclick="nbr(this)" value="2" class="nbr">2</button>
+            <button onclick="nbr(this)" value="3" class="nbr">3</button>
+            <button onclick="wrt(this)" value="*" class="opr">*</button><br>
+            <button onclick="nbr(this)" value="0" class="nbr">0</button>
+            <button onclick="ris(this)" value="=" class="ris">=</button>
+            <button onclick="clr()" class="clr">CE</button>
+            <button onclick="wrt(this)" value="/" class="opr">/</button><br><br> 
+        </div>
+    </div>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+</html>

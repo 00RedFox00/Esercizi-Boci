@@ -1,0 +1,15 @@
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\bin\Debug\net6.0\esercizio 07.exe
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\bin\Debug\net6.0\esercizio 07.deps.json
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\bin\Debug\net6.0\esercizio 07.runtimeconfig.json
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\bin\Debug\net6.0\esercizio 07.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\bin\Debug\net6.0\esercizio 07.pdb
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.AssemblyInfoInputs.cache
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.AssemblyInfo.cs
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.csproj.CoreCompileInputs.cache
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.sourcelink.json
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\refint\esercizio 07.dll
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.pdb
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\esercizio 07.genruntimeconfig.cache
+C:\Users\ReDev\Documents\GitHub\Esercizi-Boci\esercizio 07\obj\Debug\net6.0\ref\esercizio 07.dll
